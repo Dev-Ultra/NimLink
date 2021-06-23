@@ -1,13 +1,6 @@
 <?php
 
-/*
-
-سورس ربات نیم بها کننده لینک همراه با وبسرویس
-کانال ما : @PersianPanel_TM
-نویسنده : @DevUltra
-منبع بزن.
-
-*/
+# Coded By : T.Me/DevUltra
 
 error_reporting(0);
 ob_start('ob_gzhandler');
@@ -36,8 +29,8 @@ if(!$ok){
 
 #-----------------------------#
 
-$token         = ""; # توکن ربات
-$api_url       = ""; # آدرس فایل api.php
+$token         = ""; # Bot Token
+$api_url       = ""; # api.php Address
 
 #-----------------------------#
 
@@ -173,14 +166,7 @@ elseif($text == "کانال ما"){
     
 }
 
-/*
-
-سورس ربات نیم بها کننده لینک همراه با وبسرویس
-کانال ما : @PersianPanel_TM
-نویسنده : @DevUltra
-منبع بزن.
-
-*/
+# Coded By : T.Me/DevUltra
 
 #-----------------------------#
 
