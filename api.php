@@ -1,13 +1,6 @@
 <?php
 
-/*
-
-سورس ربات نیم بها کننده لینک همراه با وبسرویس
-کانال ما : @PersianPanel_TM
-نویسنده : @DevUltra
-منبع بزن.
-
-*/
+# Coded By : T.Me/DevUltra
 
 header('Content-Type: application/json;charset=utf-8');
 error_reporting(0);
@@ -52,13 +45,6 @@ if($link_address == null or $link_address == "" or !isset($_GET['link'])){
 
 echo json_encode($end,128|256);
 
-/*
-
-سورس ربات نیم بها کننده لینک همراه با وبسرویس
-کانال ما : @PersianPanel_TM
-نویسنده : @DevUltra
-منبع بزن.
-
-*/
+# Coded By : T.Me/DevUltra
 
 ?>
